@@ -1,0 +1,1 @@
+cp ./themes/arctikai.json ~/.config/zed/themes/
