@@ -34,6 +34,11 @@ cp themes/arctikai.json ~/.config/zed/themes/
 
 Then restart Zed or run `workspace: reload`, open `theme selector: toggle`, and choose `Arctikai`.
 
+## Recommended icons
+
+For file icons, [Catppuccin Icons](https://zed.dev/extensions/catppuccin-icons)
+are recommended. They are fairly close in color scheme.
+
 ## Recommended Zed Settings ⚙️
 
 Some visual details are controlled by Zed settings rather than the theme schema.
