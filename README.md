@@ -1,5 +1,7 @@
 # Arctikai ❄️
 
+![Arctikai theme poster](assets/poster.png)
+
 A cool-toned, muted, and restrained dark theme for [Zed](https://zed.dev/).
 
 Arctikai is inspired by the Monokai Pro color scheme, with additional influence from
@@ -9,7 +11,7 @@ coding sessions.
 
 ## Preview 🖼️
 
-![Arctikai theme poster](assets/poster.png)
+![Arctikai theme screenshot](assets/screenshot.png)
 
 ## Installation 📦
 
