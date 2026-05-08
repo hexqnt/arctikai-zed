@@ -74,12 +74,18 @@ You can add this to your Zed `settings.json` and adjust it to taste:
     "zero": true,
   }
 
-  // I like to see mutable and immutable variables in code
   "global_lsp_settings": {
     "semantic_token_rules": [
+      // I like to see mutable and immutable variables in code
       {
         "token_modifiers": ["mutable"],
         "underline": true,
+        "font_style": "normal",
+      },
+      // And see whether it is a parameter or a local variable
+      {
+        "token_type": "parameter",
+        "style": ["variable.parameter", "variable"]
       },
     ],
   },
